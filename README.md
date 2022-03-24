@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ross Gordon.
 - 👀 I’m interested in front-end web development, playing drums, and seeing new countries.
-- 🌱 I’m currently learning React Native
+- 🌱 I’m currently learning React
 - 📫 How to reach me- <a href="mailto:rossagordonstl@gmail.com">Email</a>
  || <a href="https://www.linkedin.com/in/rossagordon/">Linked In</a>
 <!---
